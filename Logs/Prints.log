@@ -1,0 +1,4 @@
+ppp00:41:39.397 [main] DEBUG beta.testLog4j01 - Debugging :::
+00:41:39.399 [main] ERROR beta.testLog4j01 - Error
+00:41:39.400 [main] FATAL beta.testLog4j01 - fatal
+00:41:39.400 [main] INFO  beta.testLog4j01 - Successfully completed
